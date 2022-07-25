@@ -1,7 +1,8 @@
 # Ui-web-weather
-A clock, weather app, to do list by html css js
-
---------- Important!! --------------
+A clock, weather app, to do list by html css js 
+<br>
+<b>--------- Important!! -------------- </b>
+<pre>
 Folder structure: 
        css >> style.css || css/style.css
        images >> all images || images/img_name.jpg
@@ -12,5 +13,5 @@ Folder structure:
 • Weather Api Soon 
 • To do liat Soon 
 • Clock Soon
-
+</pre>
  
